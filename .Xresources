@@ -34,3 +34,15 @@
 ! white
 *.color7:       #707880
 *.color15:      #c5c8c6
+
+
+
+
+!! URxvt
+! URxvt.font : 
+URxvt.cursorBlink : true
+URxvt.cursorUnderline : false
+URxvt.scrollBar : false
+
+
+URxvt.perl-ext-common : default
