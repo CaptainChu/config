@@ -43,6 +43,9 @@
 URxvt.cursorBlink : true
 URxvt.cursorUnderline : false
 URxvt.scrollBar : false
+URxvt.font : xft:monospace:size=16
 
 
-URxvt.perl-ext-common : default
+URxvt.perl-ext-common : default,font-size
+URxvt.keysym.C-k : font-size:increase
+URxvt.keysym.C-j : font-size:decrease
