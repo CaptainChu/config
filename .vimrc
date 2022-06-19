@@ -8,6 +8,7 @@ set smartindent
 set tabstop=4
 set shiftwidth=4
 set belloff=all
+set expandtab
 
 
 
