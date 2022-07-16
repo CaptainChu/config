@@ -1,0 +1,24 @@
+        {
+            "name": "Capuchi",
+            "foreground": "#FFFFFF",
+            "background": "#0A0A0A",
+            "cursorColor": "#FFFFFF",
+            "selectionBackground": "#FFFFFF",
+            "black": "#2F3239",
+            "brightBlack": "#373B41",
+            "red": "#E74DB9",
+            "brightRed": "#CC6666",
+            "green": "#858C46",
+            "brightGreen": "#888F4B",
+            "yellow": "#DE935F",
+            "brightYellow": "#89BB00",
+            "blue": "#FFBBFF",
+            "brightBlue": "#81A2BE",
+            "purple": "#3267C8",
+            "brightPurple": "#2590D1",
+            "cyan": "#CC8181",
+            "brightCyan": "#FFBBFF",
+            "white": "#707880",
+            "brightWhite": "#C5C8C6"
+        }
+
